@@ -247,7 +247,11 @@ function ShopKart({ setOpen, open, setCount }) {
               <button
                 className={Styles.ContactBtn}
                 onClick={() => navigate()}
-                style={{ cursor: "pointer" }}
+                style={{
+                  cursor: "pointer",
+                  fontWeight: "bold",
+                  fontSize: "20px",
+                }}
               >
                 Confirm Estimation
               </button>
@@ -270,20 +274,20 @@ function ShopKart({ setOpen, open, setCount }) {
               <span>₹3000</span>
             </div>
             <div className={Styles.minimunPriceValue}>
-              <span>Tamil Nadu</span>
-              <span>₹3000</span>
+              <span>Kerala</span>
+              <span>₹6000</span>
             </div>
             <div className={Styles.minimunPriceValue}>
-              <span>Tamil Nadu</span>
-              <span>₹3000</span>
+              <span> Karnataka</span>
+              <span>₹6000</span>
             </div>
             <div className={Styles.minimunPriceValue}>
-              <span>Tamil Nadu</span>
-              <span>₹3000</span>
+              <span>Andra Pradesh</span>
+              <span>₹6000</span>
             </div>
             <div className={Styles.minimunPriceValue}>
-              <span>Tamil Nadu</span>
-              <span>₹3000</span>
+              <span>North India</span>
+              <span>₹10000</span>
             </div>
           </div>
         </div>

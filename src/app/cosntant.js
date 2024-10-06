@@ -75,53 +75,30 @@ export const reviewData = [
   {
     // quote: "“",
     description:
-      "I was hesitant to order crackers online but I'm so glad I did. The quality is top-notch and the variety is impressive. The website was easy to navigate & service was excellent.",
+      "Very good service I didn't expect this I ordered on website on the 2nd day I got my order through parcel to puducherry and well packed with white nylon sheet ....this is my first order I will continue my ordering from this year",
     image: priya, // Replace with the actual image path
-    name: "Priya R",
+    name: "Greenland farmhouse",
   },
   {
     // quote: "“",
     description:
-      "I was hesitant to order crackers online but I'm so glad I did. The quality is top-notch and the variety is impressive. The website was easy to navigate & service was excellent.",
+      "Very good packing. nice delivery,quick purchase, i recommended goat crackers!",
     image: rahul, // Replace with the actual image path
-    name: "Rahul K",
+    name: "Dheenadayalan Manoharan",
   },
   {
     // quote: "“",
     description:
       "Best Diwali ever! Thanks to Cracker’s King for the amazing crackers. The kids had a blast and the neighbors loved the show. Will definitely order again next year.",
     image: meera, // Replace with the actual image path
-    name: "Meera",
+    name: "Thirupathi TJMK",
   },
   {
     // quote: "“",
-    description:
-      "I was hesitant to order crackers online but I'm so glad I did. The quality is top-notch and the variety is impressive. The website was easy to navigate & service was excellent.",
-    image: priya, // Replace with the actual image path
-    name: "Priya R",
-  },
-  {
-    // quote: "“",
-    description:
-      "I was hesitant to order crackers online but I'm so glad I did. The quality is top-notch and the variety is impressive. The website was easy to navigate & service was excellent.",
-    image: rahul, // Replace with the actual image path
-    name: "Rahul K",
-  },
-  {
-    // quote: "“",
-    description:
-      "Best Diwali ever! Thanks to Cracker’s King for the amazing crackers. The kids had a blast and the neighbors loved the show. Will definitely order again next year.",
+    description: "Good quality and nice parking and I am support this",
     image: meera, // Replace with the actual image path
-    name: "Meera",
+    name: "NEELA KANTH.M",
   },
-  {
-    // quote: "“",
-    description:
-      "Best Diwali ever! Thanks to Cracker’s King for the amazing crackers. The kids had a blast and the neighbors loved the show. Will definitely order again next year.",
-    image: meera, // Replace with the actual image path
-    name: "Meera",
-  },
-  // Add more review objects as needed
 ];
 
 export const accordian = [
@@ -130,20 +107,20 @@ export const accordian = [
     desc: "Yes, all our crackers are designed with safety in mind and comply with safety standards. However, adult supervision is always recommended.",
   },
   {
-    question: "Are your crackers safe for children?",
-    desc: "Yes, all our crackers are designed with safety in mind and comply with safety standards. However, adult supervision is always recommended.",
+    question: "What types of crackers do you offer?",
+    desc: "We offer a variety of crackers, including savory, sweet, gluten-free, organic, and flavored options. You can browse through our product categories for detailed information.",
   },
   {
-    question: "Are your crackers safe for children?",
-    desc: "Yes, all our crackers are designed with safety in mind and comply with safety standards. However, adult supervision is always recommended.",
+    question: "What are the available payment options?",
+    desc: "We accept various payment methods, including Bank Transfer, debit cards and digital wallets like UPI,Google Pay and Apple Pay.",
   },
   {
-    question: "Are your crackers safe for children?",
-    desc: "Yes, all our crackers are designed with safety in mind and comply with safety standards. However, adult supervision is always recommended.",
+    question: "Can I cancel my order after placing it?",
+    desc: "Orders can be canceled within 24 hours of placing them. After this period, cancellations may not be accepted due to the nature of the product and shipping processes",
   },
   {
-    question: "Are your crackers safe for children?",
-    desc: "Yes, all our crackers are designed with safety in mind and comply with safety standards. However, adult supervision is always recommended.",
+    question: "Do you offer discounts for bulk orders or during festivals",
+    desc: "Yes, we offer special discounts for bulk purchases and during festival seasons like Diwali, New Year, etc",
   },
 ];
 

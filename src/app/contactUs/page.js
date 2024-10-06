@@ -112,7 +112,9 @@ const contactUs = () => {
           <div className={Styles.socialIcons}>
             <Image src={youtube} />
             <Image src={facebook} />
-            <Image src={instagram} />
+            <a link="https://www.instagram.com/crackersking.in?igsh=NXR3dzV2MTQ1MjFu">
+              <Image src={instagram} />
+            </a>
           </div>
         </div>
         <Image src={map} className={Styles.contactUsMap} />
@@ -136,12 +138,14 @@ const contactUs = () => {
               cursor: "pointer",
             }}
           >
-            <button
-              className={Styles.bulksavingBtn}
-              style={{ cursor: "pointer" }}
-            >
-              Quick Connect
-            </button>
+            <a href="https://wa.me/918807775335">
+              <button
+                className={Styles.bulksavingBtn}
+                style={{ cursor: "pointer" }}
+              >
+                Quick Connect
+              </button>
+            </a>
           </div>
         </div>
 

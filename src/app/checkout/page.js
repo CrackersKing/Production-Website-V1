@@ -72,7 +72,7 @@ const Checkout = () => {
   };
 
   const sendEmail = (totalOfferPrice, shopKartData) => {
-    fetch("http://localhost:5000/users", {
+    fetch("https://production-website-backend.vercel.app/users", {
       method: "POST", // Change the method to POST
       headers: {
         "Content-Type": "application/json", // Set the content type to JSON
@@ -110,7 +110,7 @@ const Checkout = () => {
       sessionStorage.setItem("cartData", JSON.stringify(data));
       sessionStorage.setItem("cartCount", 0);
     }
-    // setShowPopup(true);
+    setShowPopup(true);
   };
 
   const handleClosePopup = () => {

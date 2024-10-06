@@ -194,12 +194,14 @@ const homePage = () => {
             celebration truly amazing!
           </p>
           <div style={{ display: "flex", justifyContent: "center" }}>
-            <button
-              className={Styles.bulksavingBtn}
-              style={{ cursor: "pointer" }}
-            >
-              Quick Connect
-            </button>
+            <a href="https://wa.me/918807775335">
+              <button
+                className={Styles.bulksavingBtn}
+                style={{ cursor: "pointer" }}
+              >
+                Quick Connect
+              </button>
+            </a>
           </div>
         </div>
 
@@ -274,7 +276,7 @@ const homePage = () => {
                         gap: "10px",
                       }}
                     >
-                      <Image src={review.image} alt={review.name} />
+                      {/* <Image src={review.image} alt={review.name} /> */}
                       <span className={Styles.reviewCardName}>
                         {review.name}
                       </span>

@@ -179,7 +179,7 @@ const Shop = () => {
         }
         headerText="Shop Now! For Unforgettable"
         subheaderText="Fireworks"
-        buttonText="shop Us"
+        buttonText="Shop Us"
         mobileBackgroundImage={
           "https://crackerskingsassets.s3.ap-south-1.amazonaws.com/shop_mobile_Banner.svg"
         }
